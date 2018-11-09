@@ -4,8 +4,6 @@
 #include <unistd.h>
 #include <string.h>
 
-void ls_o_path(char option[], char path[]);
-
 int main()
 {
 	char s[1000];	// 입력받을 char[]
